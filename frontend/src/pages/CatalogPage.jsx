@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import   { useState, useEffect } from 'react';
 import { useApp } from '../context/AppContext';
 import ProductCard from '../components/ProductCard';
 import FilterSidebar from '../components/FilterSidebar';

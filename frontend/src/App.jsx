@@ -1,7 +1,6 @@
-import React from 'react';
+ 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { AppProvider } from './context/AppContext';
-
 // Import Global Layout Widgets
 import AccessibilityToolbar from './components/AccessibilityToolbar';
 import Header from './components/Header';
