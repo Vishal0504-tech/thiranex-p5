@@ -1,0 +1,297 @@
+[
+  {
+    "id": "acoustic-pro-x1",
+    "name": "Acoustic Pro X1",
+    "price": 299.99,
+    "category": "Audio",
+    "inStock": true,
+    "stockCount": 15,
+    "rating": 4.8,
+    "reviewCount": 42,
+    "image": "/images/headphones.png",
+    "description": "Experience pure auditory bliss with the Acoustic Pro X1. Featuring advanced hybrid active noise cancellation (ANC), 40mm dynamic drivers, and up to 45 hours of continuous battery life. Designed with memory foam earcups for exceptional all-day comfort.",
+    "specs": {
+      "Brand": "Acoustic Labs",
+      "Model": "Pro X1",
+      "Driver Size": "40 mm",
+      "Battery Life": "Up to 45 hours",
+      "Connectivity": "Bluetooth 5.2 / 3.5mm Aux",
+      "Weight": "250g",
+      "ANC Support": "Hybrid Active Noise Cancelling"
+    },
+    "reviews": [
+      {
+        "id": "r1",
+        "user": "Elena Rostova",
+        "rating": 5,
+        "comment": "Absolutely incredible sound stage and noise cancellation. The battery feels like it lasts forever!",
+        "date": "2026-06-10"
+      },
+      {
+        "id": "r2",
+        "user": "Marcus Brody",
+        "rating": 4,
+        "comment": "Very comfortable for long workdays. Bass is a bit heavy, but EQ customization in the app resolves it.",
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "id": "keyforge-v2",
+    "name": "KeyForge V2 Mech Keyboard",
+    "price": 149.99,
+    "category": "Keyboards",
+    "inStock": true,
+    "stockCount": 8,
+    "rating": 4.7,
+    "reviewCount": 29,
+    "image": "/images/keyboard.png",
+    "description": "An enthusiast-level mechanical keyboard engineered for typing perfection. Features hot-swappable linear yellow switches, sound-dampening foam layers, a solid aluminum top case, and vibrant per-key south-facing RGB customization.",
+    "specs": {
+      "Brand": "KeyForge Systems",
+      "Layout": "75% Compact",
+      "Switches": "Hot-swappable Linear Yellow",
+      "Case Material": "CNC Aluminum Top Frame",
+      "Keycaps": "Double-shot PBT Cherry Profile",
+      "Backlight": "South-facing 16.8M Color RGB",
+      "Connection": "USB-C Detachable"
+    },
+    "reviews": [
+      {
+        "id": "r3",
+        "user": "Toby Miller",
+        "rating": 5,
+        "comment": "This keyboard sounds incredibly creamy right out of the box! Zero key rattle.",
+        "date": "2026-06-12"
+      },
+      {
+        "id": "r4",
+        "user": "Sarah J.",
+        "rating": 4,
+        "comment": "Excellent build quality. Wish it came with a wrist rest at this price point, but overall wonderful typing feel.",
+        "date": "2026-05-28"
+      }
+    ]
+  },
+  {
+    "id": "lumina-arc",
+    "name": "Lumina Arc Smart Desk Lamp",
+    "price": 89.99,
+    "category": "Lighting",
+    "inStock": true,
+    "stockCount": 22,
+    "rating": 4.6,
+    "reviewCount": 18,
+    "image": "/images/lamp.png",
+    "description": "Enhance your focus with the Lumina Arc. Featuring an asymmetrical optical design that eliminates screen glare, a flexible brass neck, wireless Qi charging built into the base, and auto-dimming touch controls that adjust to ambient light.",
+    "specs": {
+      "Brand": "Lumina Tech",
+      "Power Output": "12W",
+      "Brightness": "Max 950 Lumens",
+      "Color Temp": "2700K - 6500K (Adjustable)",
+      "Qi Wireless Charger": "15W Fast Charge",
+      "Material": "Anodized Aluminum & Brass",
+      "Lifespan": "50,000 hours"
+    },
+    "reviews": [
+      {
+        "id": "r5",
+        "user": "David Zhao",
+        "rating": 5,
+        "comment": "Perfect for late night coding. The wireless charging base is very convenient and keeps my desk clean.",
+        "date": "2026-06-18"
+      },
+      {
+        "id": "r6",
+        "user": "Anna K.",
+        "rating": 4,
+        "comment": "Great light output and style. The auto-dimming feature is a bit sensitive, but manually setting it is easy.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "apex-chrono",
+    "name": "Apex Chrono AMOLED Smartwatch",
+    "price": 199.99,
+    "category": "Accessories",
+    "inStock": true,
+    "stockCount": 12,
+    "rating": 4.5,
+    "reviewCount": 35,
+    "image": "/images/watch.png",
+    "description": "Track your vitals and look sharp with the Apex Chrono. Features a stunning 1.43-inch AMOLED display, a built-in multi-system GPS, 14-day battery life, and continuous health monitoring including SpO2, heart rate, stress levels, and sleep analysis.",
+    "specs": {
+      "Brand": "Apex Wearables",
+      "Display": "1.43\" AMOLED, 466x466 px",
+      "Battery Life": "Up to 14 Days",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "GPS, Accelerometer, SpO2, HR Sensor",
+      "Strap Material": "Genuine Italian Leather & Silicone",
+      "OS Compatibility": "Android 8.0+ / iOS 12.0+"
+    },
+    "reviews": [
+      {
+        "id": "r7",
+        "user": "Gordon Ramsey",
+        "rating": 5,
+        "comment": "The display is absolutely gorgeous even in direct sunlight. Heart rate tracking matches my chest strap accurately.",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "r8",
+        "user": "Linda P.",
+        "rating": 4,
+        "comment": "Looks like a classic watch, behaves like a modern smartwatch. Leather strap is very high quality.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "nomad-grid",
+    "name": "Nomad Grid Travel Backpack",
+    "price": 119.99,
+    "category": "Accessories",
+    "inStock": true,
+    "stockCount": 25,
+    "rating": 4.9,
+    "reviewCount": 51,
+    "image": "/images/backpack.png",
+    "description": "The ultimate daily pack for creators and commuters. Crafted from weather-proof Cordura nylon with YKK zipper systems. Features an independent 16-inch suspended laptop sleeve, lay-flat clamshell opening, and hidden passport security pockets.",
+    "specs": {
+      "Brand": "Nomad Gear",
+      "Capacity": "24 Liters",
+      "Material": "840D Ballistic Nylon",
+      "Laptop Sleeve": "Fits up to 16\" MacBook Pro",
+      "Waterproofing": "IPX4 Weather Resistant Coating",
+      "Zippers": "YKK AquaGuard",
+      "Dimensions": "48 x 30 x 18 cm"
+    },
+    "reviews": [
+      {
+        "id": "r9",
+        "user": "Chris Evans",
+        "rating": 5,
+        "comment": "Best backpack I've ever owned. Pockets are perfectly thought out, and the material feels indestructible.",
+        "date": "2026-06-14"
+      },
+      {
+        "id": "r10",
+        "user": "Jessica U.",
+        "rating": 4,
+        "comment": "Highly functional, sleek look. Fully packed it can get a bit heavy, but the padded chest straps distribute the weight nicely.",
+        "date": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "soundwave-h2",
+    "name": "SoundWave H2 Wooden Speaker",
+    "price": 79.99,
+    "category": "Audio",
+    "inStock": true,
+    "stockCount": 5,
+    "rating": 4.4,
+    "reviewCount": 16,
+    "image": "/images/speaker.png",
+    "description": "Warm acoustic sound wrapped in a hand-crafted walnut shell. Features dual passive radiators for deep bass, Bluetooth 5.0, and 20 hours of playback. A beautiful addition to any tabletop or nightstand.",
+    "specs": {
+      "Brand": "Acoustic Labs",
+      "Output Power": "20W Stereo",
+      "Cabinet Material": "Walnut Wood Veneer",
+      "Battery Life": "Up to 20 Hours",
+      "Bluetooth Range": "Up to 15 meters",
+      "Charging Port": "USB-C",
+      "Weight": "720g"
+    },
+    "reviews": [
+      {
+        "id": "r11",
+        "user": "Ryan Gosling",
+        "rating": 5,
+        "comment": "The real wood shell gives the sound such a rich, warm tone. Looks like a piece of art.",
+        "date": "2026-06-11"
+      },
+      {
+        "id": "r12",
+        "user": "Megan T.",
+        "rating": 4,
+        "comment": "Sounds great for its size. High volume can distort slightly, but at normal room volume it sounds beautiful.",
+        "date": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "swiftglide-pro",
+    "name": "SwiftGlide Pro Wireless Mouse",
+    "price": 59.99,
+    "category": "Accessories",
+    "inStock": true,
+    "stockCount": 30,
+    "rating": 4.6,
+    "reviewCount": 24,
+    "image": "/images/mouse.png",
+    "description": "Ergonomic precision at your fingertips. The SwiftGlide Pro features a high-precision 16,000 DPI sensor, silent clickable switches, an electromagnetic scroll wheel, and dual-device pairing (Bluetooth and 2.4GHz wireless).",
+    "specs": {
+      "Brand": "KeyForge Systems",
+      "Sensor": "OptiTrack 16K Optical Sensor",
+      "DPI Range": "200 - 16,000 DPI",
+      "Buttons": "7 Programmable Buttons",
+      "Connection": "2.4GHz USB Dongle & Bluetooth",
+      "Battery": "Rechargeable, 70 days per charge",
+      "Weight": "99g"
+    },
+    "reviews": [
+      {
+        "id": "r13",
+        "user": "Devon S.",
+        "rating": 5,
+        "comment": "The silent clicks are absolute bliss for office environments. The ergonomic shape prevents wrist fatigue.",
+        "date": "2026-06-16"
+      },
+      {
+        "id": "r14",
+        "user": "Nora E.",
+        "rating": 4,
+        "comment": "Super smooth gliding. The scroll wheel switch between freewheel and notch scrolling is fantastic.",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "chronicle-leather",
+    "name": "Chronicle Leather Writing Set",
+    "price": 39.99,
+    "category": "Accessories",
+    "inStock": false,
+    "stockCount": 0,
+    "rating": 4.7,
+    "reviewCount": 15,
+    "image": "/images/notebook.png",
+    "description": "An elegant set for thinkers, planners, and writers. Includes a premium refillable full-grain leather cover holding 160 pages of ink-friendly 100GSM dotted paper, paired with a matching copper-finish fountain pen.",
+    "specs": {
+      "Brand": "Chronicle Goods",
+      "Cover Material": "Full-grain Distressed Leather",
+      "Paper Specs": "160 Pages, 100 GSM, Dotted, Cream-colored",
+      "Pen Type": "Refillable Fountain Pen (0.5mm nib)",
+      "Refill Compatibility": "Standard A5 Dotted Inserts",
+      "Dimensions": "21 x 14.5 cm (A5 size)"
+    },
+    "reviews": [
+      {
+        "id": "r15",
+        "user": "Oliver Twist",
+        "rating": 5,
+        "comment": "The leather smells wonderful and the paper is very thick, no fountain pen bleed-through at all. High quality.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "r16",
+        "user": "Clara S.",
+        "rating": 4,
+        "comment": "Lovely presentation box. Beautiful pen, but ink flow took a few minutes to start. Once working, it writes like butter.",
+        "date": "2026-05-15"
+      }
+    ]
+  }
+]
